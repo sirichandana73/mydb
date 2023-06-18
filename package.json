@@ -1,0 +1,23 @@
+{
+  "name": "mydb",
+  "version": "1.0.0",
+  "description": "My Database Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sirichandana73/mydb.git"
+  },
+  "keywords": [
+    "mydb",
+    "database"
+  ],
+  "author": "Siri Chandana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirichandana73/mydb/issues"
+  },
+  "homepage": "https://github.com/sirichandana73/mydb#readme"
+}
